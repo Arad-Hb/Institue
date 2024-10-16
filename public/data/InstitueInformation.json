@@ -1,0 +1,24 @@
+[  {"Slider":[
+    {"id":0,"title":"UI/UX","imageUrl":"https://www.tahlildadeh.com/Files/PageInfo/UIUX-Ad-Desktop2024-08-20-10-15-50.webp"},
+    {"id":1,"title":"DeepLearning","imageUrl":"https://www.tahlildadeh.com/Files/PageInfo/DL2024-10-09-12-33-40.webp"},
+    {"id":2,"title":"FrontEnd","imageUrl":"https://www.tahlildadeh.com/Files/PageInfo/reactCourse2024-10-14-16-33-59.webp"},
+    {"id":3,"title":"Packages","imageUrl":"https://www.tahlildadeh.com/Files/PageInfo/packege-min2024-10-07-13-06-29.webp"},
+    {"id":4,"title":"C#","imageUrl":"https://www.tahlildadeh.com/Files/PageInfo/Csharp2024-10-09-14-03-30.webp"}
+]},
+{"TopBanner":[
+    {"id":0,"imageUrl":"https://www.tahlildadeh.com/Content/images/temp/adSample1.webp"}
+]},
+{"Courses":[
+    {"id":0,"title":"webDesign","imageUrl":"https://www.tahlildadeh.com/Courses/CourcesImages/wd2023-12-03-11-20-50.webp"},
+    {"id":1,"title":"python","imageUrl":"https://www.tahlildadeh.com/Courses/CourcesImages/python2023-10-27-10-34-352023-12-20-16-10-42.webp"},
+    {"id":2,"title":"java","imageUrl":"https://www.tahlildadeh.com/Courses/CourcesImages/java2023-10-27-10-41-002023-12-20-16-10-24.webp"},
+    {"id":3,"title":"microServices","imageUrl":"https://www.tahlildadeh.com/Courses/CourcesImages/memarinarmafzar2023-12-10-10-31-45.webp"},
+    {"id":4,"title":"nodeJs","imageUrl":"https://www.tahlildadeh.com/Courses/CourcesImages/nodejs2024-09-10-13-52-19.webp"}
+]},
+{"Books":[
+    {"id":0,"title":"reactNative","imageUrl":"https://www.tahlildadeh.com/Files/EbookImages/Thumb/book3%202024-03-12-15-53-31.webp"},
+    {"id":1,"title":"algorithem","imageUrl":"https://www.tahlildadeh.com/Files/EbookImages/Thumb/book2024-03-12-11-02-51.webp"},
+    {"id":2,"title":"entityFramework","imageUrl":"https://www.tahlildadeh.com/Files/EbookImages/Thumb/book12024-03-12-11-07-07.webp"},
+    {"id":2,"title":"reactJs","imageUrl":"https://www.tahlildadeh.com/Files/EbookImages/Thumb/book42024-03-12-15-52-45.webp"}
+]}
+]
